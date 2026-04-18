@@ -1,0 +1,7 @@
+{
+  "name": "Dual H-Bridge Motor Driver",
+  "model": "L298N",
+  "description": "A dual H-bridge motor driver module capable of driving two DC motors or one stepper motor. Supports up to 2A per channel and 46V. Includes onboard 5V voltage regulator (when VMS ≥ 7V).",
+  "exampleIdeas": ["Two-wheel drive robot", "Conveyor belt", "Stepper motor control", "Electric curtain opener"],
+  "tags": ["motor", "driver", "dc-motor", "stepper", "robotics"]
+}

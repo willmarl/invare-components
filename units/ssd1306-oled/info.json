@@ -1,0 +1,7 @@
+{
+  "name": "OLED Display 128x64",
+  "model": "SSD1306",
+  "description": "A compact 0.96\" monochrome OLED display with 128x64 pixel resolution. Communicates via I2C (address 0x3C) or SPI. High contrast, visible in sunlight, no backlight needed.",
+  "exampleIdeas": ["Sensor readout display", "Mini UI menu", "Clock/timer display", "Network status panel"],
+  "tags": ["display", "oled", "i2c", "spi", "screen"]
+}

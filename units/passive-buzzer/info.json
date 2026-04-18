@@ -1,0 +1,6 @@
+{
+  "name": "Passive Buzzer",
+  "description": "A passive piezoelectric buzzer that requires an external oscillating signal to produce sound. Unlike an active buzzer, you control the frequency, enabling it to play different tones and melodies using the tone() function.",
+  "exampleIdeas": ["Alarm system", "Musical tone player", "Game sound effects", "Notification beeper"],
+  "tags": ["output", "buzzer", "audio", "piezo", "tone"]
+}

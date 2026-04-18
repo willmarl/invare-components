@@ -1,0 +1,7 @@
+{
+  "name": "PIR Motion Sensor",
+  "model": "HC-SR501",
+  "description": "A passive infrared motion detector that senses movement from warm bodies (humans, animals) within a ~7m range and 120° cone. Outputs a HIGH signal for a configurable duration when motion is detected. Sensitivity and delay are adjustable via onboard potentiometers.",
+  "exampleIdeas": ["Intruder alarm", "Automatic light switch", "People counter", "Security camera trigger"],
+  "tags": ["sensor", "motion", "pir", "infrared", "security"]
+}

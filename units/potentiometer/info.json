@@ -1,0 +1,6 @@
+{
+  "name": "Potentiometer",
+  "description": "A variable resistor (rotary knob) that outputs an analog voltage between GND and VCC as it is turned. Read via an analog input pin to get a 0–1023 value on a 10-bit ADC.",
+  "exampleIdeas": ["Volume/brightness control", "Servo angle control", "Speed control input", "Calibration knob"],
+  "tags": ["input", "analog", "potentiometer", "knob", "variable-resistor"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Ultrasonic Distance Sensor",
+  "model": "HC-SR04",
+  "description": "A non-contact distance measurement sensor using ultrasonic sound waves. Measures distances from 2cm to 400cm with ~3mm accuracy. Requires two digital pins: TRIG and ECHO.",
+  "exampleIdeas": ["Obstacle avoidance robot", "Parking sensor", "Liquid level monitor", "Automatic door opener"],
+  "tags": ["sensor", "distance", "ultrasonic", "sonar"]
+}

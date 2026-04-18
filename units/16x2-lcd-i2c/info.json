@@ -1,0 +1,7 @@
+{
+  "name": "16x2 LCD Display (I2C)",
+  "model": "HD44780 + PCF8574",
+  "description": "A classic 16-character, 2-line character LCD display with an I2C backpack module (PCF8574 I/O expander). The I2C interface reduces wiring to just 4 pins (VCC, GND, SDA, SCL). Default I2C address is typically 0x27 or 0x3F.",
+  "exampleIdeas": ["Sensor readout panel", "Menu system", "Clock display", "Debug output screen"],
+  "tags": ["display", "lcd", "i2c", "character-display", "screen"]
+}

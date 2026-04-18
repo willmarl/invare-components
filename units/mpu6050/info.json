@@ -1,0 +1,7 @@
+{
+  "name": "Gyroscope & Accelerometer",
+  "model": "MPU-6050",
+  "description": "A 6-axis IMU (Inertial Measurement Unit) combining a 3-axis gyroscope and 3-axis accelerometer on a single chip. Communicates via I2C. Includes DMP (Digital Motion Processor) for onboard sensor fusion.",
+  "exampleIdeas": ["Self-balancing robot", "Gesture controller", "Flight controller", "Tilt-based game input", "Step counter"],
+  "tags": ["sensor", "imu", "gyroscope", "accelerometer", "i2c", "motion"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "5V Relay Module",
+  "model": "SRD-05VDC-SL-C",
+  "description": "A single-channel 5V relay module that allows a microcontroller to switch high-voltage or high-current loads (up to 250V AC / 10A). Includes optocoupler isolation for MCU protection.",
+  "exampleIdeas": ["Smart outlet switch", "Automated lamp control", "Water pump controller", "Motor on/off switch"],
+  "tags": ["relay", "actuator", "switching", "high-voltage", "mains"]
+}
