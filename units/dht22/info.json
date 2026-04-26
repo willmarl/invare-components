@@ -1,7 +1,0 @@
-{
-  "name": "Temperature & Humidity Sensor",
-  "model": "DHT22",
-  "description": "A digital sensor measuring ambient temperature (-40°C to 80°C) and relative humidity (0–100%) with high accuracy. Uses a single-wire serial interface. Slower but more accurate than the DHT11.",
-  "exampleIdeas": ["Weather station", "Greenhouse monitor", "HVAC automation", "Data logger"],
-  "tags": ["sensor", "temperature", "humidity", "environmental"]
-}

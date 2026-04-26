@@ -1,6 +1,0 @@
-{
-  "name": "Push Button",
-  "description": "A momentary tactile push button switch. Closes the circuit only while pressed. Typically used with an internal or external pull-up/pull-down resistor on a digital input pin.",
-  "exampleIdeas": ["Start/stop control", "Menu navigation", "Interrupt trigger", "Morse code input"],
-  "tags": ["input", "button", "switch", "digital"]
-}

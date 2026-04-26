@@ -1,7 +1,0 @@
-{
-  "name": "IR Receiver Module",
-  "model": "VS1838B",
-  "description": "An infrared receiver module that decodes signals from standard IR remote controls. Outputs decoded values via a single digital pin. Compatible with most 38kHz IR remotes.",
-  "exampleIdeas": ["Remote-controlled robot", "TV remote volume control", "IR-based home automation", "Remote-triggered camera"],
-  "tags": ["sensor", "ir", "infrared", "remote", "wireless"]
-}

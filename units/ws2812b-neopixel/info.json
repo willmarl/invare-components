@@ -1,7 +1,0 @@
-{
-  "name": "Addressable RGB LED Strip",
-  "model": "WS2812B",
-  "description": "Individually addressable RGB LEDs that chain together on a single data wire. Each LED contains its own driver IC. Supports 16 million colors per pixel. Controlled via the NeoPixel or FastLED library.",
-  "exampleIdeas": ["Ambient lighting", "VU meter visualizer", "Status indicator strip", "Wearable light effects", "LED matrix display"],
-  "tags": ["led", "rgb", "neopixel", "ws2812b", "lighting", "addressable"]
-}

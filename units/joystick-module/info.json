@@ -1,6 +1,0 @@
-{
-  "name": "Joystick Module",
-  "description": "A dual-axis analog joystick module with a built-in push button (press down on the stick). The X and Y axes output analog voltages read via two analog pins. The button outputs a digital LOW when pressed.",
-  "exampleIdeas": ["Robot directional control", "Pan/tilt camera control", "Game controller input", "Menu navigation"],
-  "tags": ["input", "joystick", "analog", "gamepad"]
-}
