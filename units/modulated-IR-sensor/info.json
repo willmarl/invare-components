@@ -1,0 +1,12 @@
+{
+  "name": "Modulated IR Sensor",
+  "model": "TCRT5000",
+  "description": "A reflective infrared sensor that detects the presence or absence of objects by emitting modulated IR light and measuring the reflected signal. Typical sensing range of 1-25 mm.",
+  "exampleIdeas": [
+    "Line-following robot",
+    "Object detection",
+    "Proximity sensing",
+    "Surface color detection"
+  ],
+  "tags": ["sensor", "infrared", "proximity", "digital"]
+}
