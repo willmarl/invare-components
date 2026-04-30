@@ -1,0 +1,6 @@
+{
+  "name": "Potentiometer",
+  "model": "PT10MV10-103A2020-E-S",
+  "exampleIdeas": ["Throttle control"],
+  "tags": ["input", "analog"]
+}

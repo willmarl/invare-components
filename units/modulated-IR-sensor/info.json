@@ -7,5 +7,5 @@
     "Proximity sensing",
     "Surface color detection"
   ],
-  "tags": ["sensor", "infrared", "proximity", "digital"]
+  "tags": ["sensor", "infrared", "proximity", "digital", "input"]
 }

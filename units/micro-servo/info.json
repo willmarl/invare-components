@@ -7,5 +7,5 @@
     "Throttle control",
     "Animatronic mechanism"
   ],
-  "tags": ["servo", "motor", "pwm", "robotics"]
+  "tags": ["servo", "motor", "pwm", "robotics", "output"]
 }
