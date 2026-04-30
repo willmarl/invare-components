@@ -1,7 +1,6 @@
 {
   "name": "Raspberry Pi 4",
   "model": "Raspberry Pi 4 Model B",
-  "description": "A single-board computer with a quad-core ARM processor, up to 8 GB RAM, 40 GPIO pins, dual HDMI outputs, USB 3.0 ports, and Gigabit Ethernet.",
   "exampleIdeas": ["automation", "IoT", "robotics controller"],
   "tags": ["single-board computer", "wifi", "networking", "gpio"]
 }

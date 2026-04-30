@@ -1,0 +1,1 @@
+A dual-core microcontroller board with integrated WiFi and Bluetooth capabilities. It features a 240 MHz processor, 520 KB RAM, 34 GPIO pins, multiple ADC inputs, and built-in wireless connectivity for IoT applications.
