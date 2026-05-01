@@ -1,0 +1,6 @@
+{
+  "name": "mini OLED display",
+  "model": "SSD1306",
+  "exampleIdeas": ["c"],
+  "tags": ["d"]
+}

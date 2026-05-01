@@ -1,0 +1,6 @@
+{
+  "name": "PWM driver",
+  "model": "PCA9685",
+  "exampleIdeas": ["c"],
+  "tags": ["d"]
+}

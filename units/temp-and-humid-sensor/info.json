@@ -1,6 +1,6 @@
 {
-  "name": "a",
-  "model": "b",
+  "name": "DHT11",
+  "model": "DHT11",
   "exampleIdeas": ["c"],
   "tags": ["d"]
 }

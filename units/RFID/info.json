@@ -1,6 +1,6 @@
 {
-  "name": "a",
-  "model": "b",
+  "name": "RFID",
+  "model": "RC522",
   "exampleIdeas": ["c"],
   "tags": ["d"]
 }

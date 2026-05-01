@@ -1,0 +1,6 @@
+{
+  "name": "stepper motor driver",
+  "model": "ULN2003",
+  "exampleIdeas": ["c"],
+  "tags": ["d"]
+}

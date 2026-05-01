@@ -1,6 +1,6 @@
 {
-  "name": "a",
-  "model": "b",
+  "name": "Joystick",
+  "model": "KY-023",
   "exampleIdeas": ["c"],
   "tags": ["d"]
 }

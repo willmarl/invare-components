@@ -1,0 +1,6 @@
+{
+  "name": "Color sensor",
+  "model": "TCS3200",
+  "exampleIdeas": ["c"],
+  "tags": ["d"]
+}

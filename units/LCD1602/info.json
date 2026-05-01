@@ -1,0 +1,6 @@
+{
+  "name": "LCD display",
+  "model": "LCD1602",
+  "exampleIdeas": ["c"],
+  "tags": ["d"]
+}

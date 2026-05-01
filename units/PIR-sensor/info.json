@@ -1,0 +1,6 @@
+{
+  "name": "PIR-sensor",
+  "model": "HC-SR501",
+  "exampleIdeas": ["c"],
+  "tags": ["d"]
+}

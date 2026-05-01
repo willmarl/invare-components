@@ -1,0 +1,6 @@
+{
+  "name": "Motor driver",
+  "model": "L293D",
+  "exampleIdeas": ["c"],
+  "tags": ["d"]
+}

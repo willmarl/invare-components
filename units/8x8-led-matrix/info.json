@@ -1,0 +1,6 @@
+{
+  "name": "8x8 LED Matrix",
+  "model": "MAX7219",
+  "exampleIdeas": ["c"],
+  "tags": ["d"]
+}

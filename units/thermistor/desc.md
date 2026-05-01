@@ -1,0 +1,2 @@
+- should try to match numbers so if 1k thermistor then 1k resistor.
+- order matters, its Vcc -> resistor -> thermistor -> ground

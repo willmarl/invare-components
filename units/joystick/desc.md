@@ -1,0 +1,1 @@
+- Operating voltage: 3.3V - 5V

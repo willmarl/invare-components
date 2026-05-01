@@ -1,0 +1,2 @@
+- KY-037 (bigger mic) is a high-sensitivity sensor suited for detecting subtle noises
+- KY-038 (smaller mic) is designed for general voice detection

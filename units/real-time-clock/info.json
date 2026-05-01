@@ -1,0 +1,6 @@
+{
+  "name": "Real time clock",
+  "model": "DS1307",
+  "exampleIdeas": ["c"],
+  "tags": ["d"]
+}

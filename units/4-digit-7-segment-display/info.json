@@ -1,0 +1,6 @@
+{
+  "name": "4 digit 7 segment display",
+  "model": "TM1637",
+  "exampleIdeas": ["c"],
+  "tags": ["d"]
+}
