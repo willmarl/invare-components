@@ -1,3 +1,8 @@
+16 channel, I2C-bus controlled driver used to control PWM modules. Requires external power that is separate from from the logic power.
+
+- Logic Voltage (Input from microcontroller): 2.3V - 5.5V
+- Load Voltage (Power that the pin from driver can handle): 6V
+
 ### How it works:
 
 - **Servo 1 (Channel 0)**: Uses `setPWM()` directly for instant jumps (410 → 615 → 820)

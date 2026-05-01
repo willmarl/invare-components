@@ -1,6 +1,6 @@
 {
   "name": "Micro Servo",
-  "model": "MSG90S",
+  "model": "MG90S",
   "exampleIdeas": [
     "Robot arm joint",
     "Pan/tilt camera mount",

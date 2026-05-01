@@ -1,5 +1,11 @@
 {
-  "name": "400 pin breadboard",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "400-Point Breadboard",
+  "exampleIdeas": [
+    "Build circuits",
+    "Temporary connections"
+  ],
+  "tags": [
+    "Prototyping",
+    "breadboard"
+  ]
 }

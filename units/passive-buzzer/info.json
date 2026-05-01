@@ -1,6 +1,14 @@
 {
-  "name": "Passive buzzer",
-  "model": "12085",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Passive Buzzer",
+  "exampleIdeas": [
+    "Frequency-based sounds",
+    "Alarms",
+    "Melodies"
+  ],
+  "tags": [
+    "Audio",
+    "Output",
+    "PWM"
+  ],
+  "model": "12085"
 }

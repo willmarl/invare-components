@@ -1,6 +1,13 @@
 {
-  "name": "Real time clock",
-  "model": "DS1307",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Real-Time Clock",
+  "exampleIdeas": [
+    "Time keeping",
+    "Scheduled events"
+  ],
+  "tags": [
+    "Clock",
+    "Time",
+    "I2C"
+  ],
+  "model": "DS1307"
 }

@@ -1,6 +1,13 @@
 {
-  "name": "LCD display",
-  "model": "LCD1602",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "LCD1602 Display",
+  "exampleIdeas": [
+    "Status messages",
+    "Sensor readings",
+    "Menu display"
+  ],
+  "tags": [
+    "Display",
+    "LCD"
+  ],
+  "model": "LCD1602"
 }

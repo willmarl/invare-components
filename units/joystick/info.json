@@ -1,6 +1,14 @@
 {
   "name": "Joystick",
-  "model": "KY-023",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "exampleIdeas": [
+    "Game control",
+    "Cursor movement",
+    "Menu navigation"
+  ],
+  "tags": [
+    "Input",
+    "Analog",
+    "Joystick"
+  ],
+  "model": "KY-023"
 }

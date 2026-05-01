@@ -1,6 +1,12 @@
 {
-  "name": "Active buzzer",
-  "model": "TMB12A",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Active Buzzer",
+  "exampleIdeas": [
+    "Alert sound",
+    "Notification beep"
+  ],
+  "tags": [
+    "Audio",
+    "Output"
+  ],
+  "model": "TMB12A"
 }

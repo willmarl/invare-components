@@ -1,7 +1,9 @@
 **TLDR** : function returns the **frequency** of the light detected for each color channel
 The sensor itself doesn't directly measure wavelength; instead, it has physical color filters (red, green, blue) that block certain wavelengths and let others through to the photodiodes.
 
-calibrate by establishing a **reference point**:
+- Operating Voltage : 2.7V - 5V
+
+Calibrate by establishing a **reference point**:
 
 1. **White calibration** — Place a white or reflective surface in front of the sensor and measure the frequency values. This gives you the maximum expected frequency for each color.
 2. **Black calibration** — Place a black or non-reflective surface in front and measure. This gives you the minimum.

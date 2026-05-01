@@ -1,6 +1,12 @@
 {
-  "name": "1 Digit 7 segment display",
-  "model": "5161AS",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "1-Digit 7-Segment Display",
+  "exampleIdeas": [
+    "Display single digit",
+    "Show numeric feedback"
+  ],
+  "tags": [
+    "Digital display",
+    "LED"
+  ],
+  "model": "5161AS"
 }

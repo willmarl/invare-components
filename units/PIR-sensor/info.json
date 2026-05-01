@@ -1,6 +1,13 @@
 {
-  "name": "PIR-sensor",
-  "model": "HC-SR501",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "PIR Sensor",
+  "exampleIdeas": [
+    "Motion detection",
+    "Intrusion alarm"
+  ],
+  "tags": [
+    "Sensor",
+    "Motion",
+    "Input"
+  ],
+  "model": "HC-SR501"
 }

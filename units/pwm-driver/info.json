@@ -1,6 +1,14 @@
 {
-  "name": "PWM driver",
-  "model": "PCA9685",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "PWM Driver",
+  "exampleIdeas": [
+    "LED brightness",
+    "Motor speed",
+    "Servo control"
+  ],
+  "tags": [
+    "PWM",
+    "Driver",
+    "Control"
+  ],
+  "model": "PCA9685"
 }

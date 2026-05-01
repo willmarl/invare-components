@@ -1,6 +1,14 @@
 {
-  "name": "RFID",
-  "model": "RC522",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "RFID Module",
+  "exampleIdeas": [
+    "Card reading",
+    "Access control",
+    "Inventory"
+  ],
+  "tags": [
+    "RFID",
+    "Input",
+    "Identification"
+  ],
+  "model": "RC522"
 }

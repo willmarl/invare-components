@@ -1,6 +1,13 @@
 {
-  "name": "stepper motor",
-  "model": "28BYJ-48",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Stepper Motor",
+  "exampleIdeas": [
+    "Precise positioning",
+    "Rotational control"
+  ],
+  "tags": [
+    "Motor",
+    "Stepper",
+    "Output"
+  ],
+  "model": "28BYJ-48"
 }

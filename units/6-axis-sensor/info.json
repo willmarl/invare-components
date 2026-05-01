@@ -1,6 +1,14 @@
 {
-  "name": "6 Axis sensor",
-  "model": "GY-521",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "6-Axis Sensor",
+  "exampleIdeas": [
+    "Motion detection",
+    "Gesture recognition",
+    "Orientation tracking"
+  ],
+  "tags": [
+    "Sensor",
+    "Motion",
+    "IMU"
+  ],
+  "model": "GY-521"
 }

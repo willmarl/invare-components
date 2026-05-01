@@ -1,6 +1,13 @@
 {
-  "name": "DHT11",
-  "model": "DHT11",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Temperature and Humidity Sensor",
+  "exampleIdeas": [
+    "Environmental monitoring",
+    "Climate control"
+  ],
+  "tags": [
+    "Sensor",
+    "Temperature",
+    "Humidity"
+  ],
+  "model": "DHT11"
 }

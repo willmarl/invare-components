@@ -1,6 +1,14 @@
 {
-  "name": "Rotary encoder",
-  "model": "HW-040",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Rotary Encoder",
+  "exampleIdeas": [
+    "Volume knob",
+    "Menu scrolling",
+    "Counting"
+  ],
+  "tags": [
+    "Input",
+    "Encoder",
+    "Control"
+  ],
+  "model": "HW-040"
 }

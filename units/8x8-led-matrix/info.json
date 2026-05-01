@@ -1,6 +1,13 @@
 {
   "name": "8x8 LED Matrix",
-  "model": "MAX7219",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "exampleIdeas": [
+    "Scrolling text",
+    "Pattern animations",
+    "Game graphics"
+  ],
+  "tags": [
+    "LED display",
+    "Matrix"
+  ],
+  "model": "MAX7219"
 }

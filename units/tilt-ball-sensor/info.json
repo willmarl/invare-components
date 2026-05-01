@@ -1,6 +1,13 @@
 {
-  "name": "Tilt ball sensor",
-  "model": "SW-520D",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Tilt Ball Sensor",
+  "exampleIdeas": [
+    "Tilt detection",
+    "Incline measurement"
+  ],
+  "tags": [
+    "Sensor",
+    "Tilt",
+    "Input"
+  ],
+  "model": "SW-520D"
 }

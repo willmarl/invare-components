@@ -1,6 +1,6 @@
 {
-  "name": "photoresistor (photocell)",
-  "model": "GL5528",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Photoresistor (photocell)",
+  "exampleIdeas": ["Light level detection", "Ambient light sensing"],
+  "tags": ["Sensor", "Light", "Analog"],
+  "model": "GL5528"
 }

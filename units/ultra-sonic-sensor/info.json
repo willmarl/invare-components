@@ -1,6 +1,14 @@
 {
-  "name": "Ultra Sonic Sensor",
-  "model": "HR-SR04",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Ultrasonic Distance Sensor",
+  "exampleIdeas": [
+    "Distance measurement",
+    "Object detection",
+    "Obstacle avoidance"
+  ],
+  "tags": [
+    "Sensor",
+    "Distance",
+    "Ultrasonic"
+  ],
+  "model": "HR-SR04"
 }

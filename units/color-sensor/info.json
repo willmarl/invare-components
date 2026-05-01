@@ -1,6 +1,13 @@
 {
-  "name": "Color sensor",
-  "model": "TCS3200",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Color Sensor",
+  "exampleIdeas": [
+    "Color detection",
+    "Light level measurement"
+  ],
+  "tags": [
+    "Sensor",
+    "Color",
+    "Light"
+  ],
+  "model": "TCS3200"
 }

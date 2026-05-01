@@ -1,6 +1,11 @@
 {
-  "name": "Breadboard power supply",
-  "model": "MB102",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Breadboard Power Supply",
+  "exampleIdeas": [
+    "Supply power to circuits"
+  ],
+  "tags": [
+    "Power",
+    "Distribution"
+  ],
+  "model": "MB102"
 }

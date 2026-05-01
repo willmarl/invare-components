@@ -1,6 +1,13 @@
 {
-  "name": "Water detection sensor",
-  "model": "HW-038",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Water Detection Sensor",
+  "exampleIdeas": [
+    "Leak detection",
+    "Moisture monitoring"
+  ],
+  "tags": [
+    "Sensor",
+    "Water",
+    "Moisture"
+  ],
+  "model": "HW-038"
 }

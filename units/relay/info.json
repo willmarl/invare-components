@@ -1,6 +1,13 @@
 {
-  "name": "5v Relay",
-  "model": "SRD-05VDC-SL-C",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Relay",
+  "exampleIdeas": [
+    "High-voltage switching",
+    "AC/DC control"
+  ],
+  "tags": [
+    "Switch",
+    "Control",
+    "Output"
+  ],
+  "model": "SRD-05VDC-SL-C"
 }

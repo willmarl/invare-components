@@ -1,0 +1,6 @@
+{
+  "name": "DC Motor",
+  "exampleIdeas": ["Mechanical motion", "Fan blade", "Propeller"],
+  "tags": ["Motor", "Output"],
+  "model": "130 motor"
+}

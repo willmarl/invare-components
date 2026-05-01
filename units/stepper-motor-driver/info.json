@@ -1,6 +1,11 @@
 {
-  "name": "stepper motor driver",
-  "model": "ULN2003",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Stepper Motor Driver",
+  "exampleIdeas": [
+    "Stepper motor control"
+  ],
+  "tags": [
+    "Motor control",
+    "Driver"
+  ],
+  "model": "ULN2003"
 }

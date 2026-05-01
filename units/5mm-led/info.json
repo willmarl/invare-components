@@ -1,5 +1,13 @@
 {
   "name": "5mm LED",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "exampleIdeas": [
+    "Status indicator",
+    "Visual feedback",
+    "Light effects"
+  ],
+  "tags": [
+    "LED",
+    "Output",
+    "Light"
+  ]
 }

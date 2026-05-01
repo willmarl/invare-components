@@ -1,5 +1,5 @@
 {
-  "name": "4x4 Matrix membrane keyboard",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "4x4 Matrix Membrane Keypad",
+  "exampleIdeas": ["Calculator input", "Menu selection", "Code entry"],
+  "tags": ["Input", "Keypad"]
 }

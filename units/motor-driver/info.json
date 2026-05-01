@@ -1,6 +1,12 @@
 {
-  "name": "Motor driver",
-  "model": "L293D",
-  "exampleIdeas": ["c"],
-  "tags": ["d"]
+  "name": "Motor Driver",
+  "exampleIdeas": [
+    "Drive DC motors",
+    "Bidirectional control"
+  ],
+  "tags": [
+    "Motor control",
+    "Driver"
+  ],
+  "model": "L293D"
 }
