@@ -1,0 +1,15 @@
+{
+  "name": "RP2040 Zero",
+  "model": "Raspberry Pi RP2040 Zero",
+  "exampleIdeas": [
+    "Tiny MCU node",
+    "USB gadget",
+    "Sensor stick"
+  ],
+  "tags": [
+    "rp2040",
+    "microcontroller",
+    "raspberry-pi",
+    "gpio"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "650nm Laser",
+  "model": "650nm Laser Dot Diode",
+  "exampleIdeas": [
+    "Laser pointer project",
+    "Alignment aid",
+    "Light tripwire"
+  ],
+  "tags": [
+    "laser",
+    "output",
+    "optics",
+    "red"
+  ]
+}

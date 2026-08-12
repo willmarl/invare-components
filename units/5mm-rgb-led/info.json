@@ -1,0 +1,14 @@
+{
+  "name": "5mm RGB LED",
+  "exampleIdeas": [
+    "Status colors",
+    "Mood lighting",
+    "RGB effects"
+  ],
+  "tags": [
+    "led",
+    "rgb",
+    "output",
+    "light"
+  ]
+}

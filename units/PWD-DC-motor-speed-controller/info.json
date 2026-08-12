@@ -1,0 +1,15 @@
+{
+  "name": "PWD DC Motor Speed Controller",
+  "model": "1803BK",
+  "exampleIdeas": [
+    "Manual motor speed dial",
+    "Fan speed control",
+    "Simple robot throttle"
+  ],
+  "tags": [
+    "motor",
+    "pwm",
+    "controller",
+    "driver"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "USB Host Shield 2",
+  "exampleIdeas": [
+    "USB keyboard on Arduino",
+    "USB gamepad input",
+    "USB HID host"
+  ],
+  "tags": [
+    "usb",
+    "host",
+    "shield",
+    "interface"
+  ]
+}

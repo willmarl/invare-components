@@ -1,0 +1,16 @@
+{
+  "name": "0.3MP Camera",
+  "model": "OV7670",
+  "exampleIdeas": [
+    "Simple image capture",
+    "Color tracking",
+    "Motion snapshot"
+  ],
+  "tags": [
+    "camera",
+    "sensor",
+    "image",
+    "ov7670",
+    "input"
+  ]
+}

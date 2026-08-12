@@ -1,0 +1,15 @@
+{
+  "name": "Micro SD Card Reader",
+  "model": "HW-125",
+  "exampleIdeas": [
+    "Data logging",
+    "Audio/file playback storage",
+    "Config on SD"
+  ],
+  "tags": [
+    "storage",
+    "sd",
+    "spi",
+    "interface"
+  ]
+}

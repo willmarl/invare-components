@@ -1,0 +1,14 @@
+{
+  "name": "Arduino Mega",
+  "model": "Arduino Mega 2560",
+  "exampleIdeas": [
+    "Many-I/O projects",
+    "3D printer controller",
+    "Large sensor arrays"
+  ],
+  "tags": [
+    "microcontroller",
+    "arduino",
+    "gpio"
+  ]
+}

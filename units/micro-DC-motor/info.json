@@ -1,0 +1,15 @@
+{
+  "name": "Micro DC Motor",
+  "model": "716 Motor",
+  "exampleIdeas": [
+    "Tiny mechanism",
+    "Fan / spinner",
+    "Vibration alternative"
+  ],
+  "tags": [
+    "motor",
+    "dc",
+    "output",
+    "small"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Mini Slide Switch",
+  "model": "SS12D00",
+  "exampleIdeas": [
+    "On/off power switch",
+    "Mode select",
+    "Enable jumper substitute"
+  ],
+  "tags": [
+    "switch",
+    "slide",
+    "input",
+    "power"
+  ]
+}

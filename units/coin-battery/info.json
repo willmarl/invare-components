@@ -1,0 +1,9 @@
+{
+  "name": "Coin Battery",
+  "model": "CR2032",
+  "tags": [
+    "power",
+    "battery",
+    "coin-cell"
+  ]
+}

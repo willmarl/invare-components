@@ -1,0 +1,16 @@
+{
+  "name": "Load Cell Amplifier",
+  "model": "HX711",
+  "exampleIdeas": [
+    "Digital scale",
+    "Force logger",
+    "Inventory weight sense"
+  ],
+  "tags": [
+    "adc",
+    "amplifier",
+    "hx711",
+    "sensor",
+    "interface"
+  ]
+}

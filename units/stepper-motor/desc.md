@@ -1,4 +1,5 @@
-28BYJ-48 unipolar cheap stepper motor. Commonly used with ULN2003 driver
+NEMA 17 stepper motor (42HS34) for precise open-loop positioning. Use with a dedicated stepper driver.
 
-- Operating Voltage : 5V
-- Steps per revolution : 2048
+- Frame: NEMA 17
+
+> AI created desc

@@ -1,0 +1,15 @@
+{
+  "name": "Pi Zero 2 W",
+  "model": "Raspberry Pi Zero 2 W",
+  "exampleIdeas": [
+    "Tiny Linux node",
+    "Wi\u2011Fi gadget",
+    "Camera companion"
+  ],
+  "tags": [
+    "raspberry-pi",
+    "sbc",
+    "wifi",
+    "linux"
+  ]
+}

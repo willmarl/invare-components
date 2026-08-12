@@ -1,0 +1,15 @@
+{
+  "name": "ESP32-CAM",
+  "exampleIdeas": [
+    "Wi\u2011Fi camera",
+    "Doorbell cam",
+    "Motion-triggered capture"
+  ],
+  "tags": [
+    "esp32",
+    "camera",
+    "wifi",
+    "microcontroller",
+    "iot"
+  ]
+}

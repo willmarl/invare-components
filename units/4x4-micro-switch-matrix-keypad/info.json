@@ -1,0 +1,14 @@
+{
+  "name": "4x4 Micro Switch Matrix Keypad",
+  "exampleIdeas": [
+    "PIN pad",
+    "Calculator UI",
+    "Game controls"
+  ],
+  "tags": [
+    "input",
+    "keypad",
+    "matrix",
+    "button"
+  ]
+}

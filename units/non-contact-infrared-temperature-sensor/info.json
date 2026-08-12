@@ -1,0 +1,16 @@
+{
+  "name": "Non-Contact Infrared Temperature Sensor",
+  "model": "GY-906",
+  "exampleIdeas": [
+    "No-touch thermometer",
+    "Hot-object detect",
+    "Thermal logging"
+  ],
+  "tags": [
+    "sensor",
+    "temperature",
+    "infrared",
+    "i2c",
+    "input"
+  ]
+}

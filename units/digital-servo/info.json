@@ -1,0 +1,16 @@
+{
+  "name": "20kg Digital Servo",
+  "model": "ds3218mg",
+  "exampleIdeas": [
+    "Robot arm joint",
+    "Steering mechanism",
+    "Heavy pan/tilt"
+  ],
+  "tags": [
+    "servo",
+    "motor",
+    "pwm",
+    "robotics",
+    "output"
+  ]
+}

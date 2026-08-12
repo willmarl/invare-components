@@ -1,0 +1,15 @@
+{
+  "name": "Dual DC Motor Driver",
+  "model": "L9110S",
+  "exampleIdeas": [
+    "2WD robot",
+    "Bidirectional motor control",
+    "Toy car drive"
+  ],
+  "tags": [
+    "motor",
+    "driver",
+    "h-bridge",
+    "output"
+  ]
+}

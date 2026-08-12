@@ -1,0 +1,14 @@
+{
+  "name": "Arduino Uno",
+  "model": "Arduino Uno",
+  "exampleIdeas": [
+    "Starter electronics",
+    "Sensor prototyping",
+    "Robot brain"
+  ],
+  "tags": [
+    "microcontroller",
+    "arduino",
+    "gpio"
+  ]
+}

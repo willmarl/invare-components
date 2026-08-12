@@ -1,0 +1,16 @@
+{
+  "name": "Wireless Transceiver",
+  "model": "NRF24L01",
+  "exampleIdeas": [
+    "Remote sensor link",
+    "Wireless robot control",
+    "Mesh-ish node pair"
+  ],
+  "tags": [
+    "wireless",
+    "rf",
+    "nrf24",
+    "spi",
+    "communication"
+  ]
+}

@@ -1,0 +1,2 @@
+- HC-05 : works as both master or slave
+- HC-06 : works as slave only

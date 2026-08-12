@@ -1,0 +1,16 @@
+{
+  "name": "MOSFET",
+  "model": "IRLZ44N",
+  "exampleIdeas": [
+    "PWM motor switch",
+    "High-current LED load",
+    "Solenoid driver"
+  ],
+  "tags": [
+    "mosfet",
+    "transistor",
+    "switch",
+    "driver",
+    "n-channel"
+  ]
+}

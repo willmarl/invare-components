@@ -1,0 +1,16 @@
+{
+  "name": "ESP32-C2",
+  "model": "ESP32-C2",
+  "exampleIdeas": [
+    "Low-cost IoT node",
+    "Wi\u2011Fi sensor",
+    "BLE beacon"
+  ],
+  "tags": [
+    "esp32",
+    "microcontroller",
+    "wifi",
+    "bluetooth",
+    "iot"
+  ]
+}

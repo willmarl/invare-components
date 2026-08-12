@@ -1,0 +1,11 @@
+{
+  "name": "USB to TTL",
+  "model": "CP2102",
+  "tags": [
+    "usb",
+    "uart",
+    "serial",
+    "interface",
+    "debug"
+  ]
+}

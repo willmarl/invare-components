@@ -1,0 +1,14 @@
+{
+  "name": "1x4 Independent Button Keypad",
+  "exampleIdeas": [
+    "Menu navigation",
+    "PIN entry",
+    "Mode select"
+  ],
+  "tags": [
+    "input",
+    "button",
+    "keypad",
+    "switch"
+  ]
+}

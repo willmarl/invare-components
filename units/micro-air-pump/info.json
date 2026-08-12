@@ -1,0 +1,15 @@
+{
+  "name": "Micro Air Pump",
+  "model": "MR-370BP 12V",
+  "exampleIdeas": [
+    "Inflatable mechanism",
+    "Pneumatic demo",
+    "Aquarium bubbler"
+  ],
+  "tags": [
+    "pump",
+    "air",
+    "actuator",
+    "output"
+  ]
+}

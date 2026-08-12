@@ -1,0 +1,15 @@
+{
+  "name": "Touch Sensor",
+  "model": "TTP223",
+  "exampleIdeas": [
+    "Touch button",
+    "Lamp switch",
+    "Hidden panel control"
+  ],
+  "tags": [
+    "sensor",
+    "touch",
+    "capacitive",
+    "input"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "DC Barrel Jack",
+  "model": "DC005-04-5.0",
+  "tags": [
+    "connector",
+    "power",
+    "jack",
+    "passive"
+  ]
+}

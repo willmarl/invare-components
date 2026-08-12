@@ -1,0 +1,15 @@
+{
+  "name": "Low Power Transistor",
+  "model": "s8050",
+  "exampleIdeas": [
+    "Switch small loads",
+    "Buzzer driver",
+    "LED bank driver"
+  ],
+  "tags": [
+    "transistor",
+    "bjt",
+    "npn",
+    "switch"
+  ]
+}

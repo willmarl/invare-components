@@ -1,0 +1,15 @@
+{
+  "name": "Arduino Leonard",
+  "model": "Arduino Leonardo",
+  "exampleIdeas": [
+    "USB HID keyboard/mouse",
+    "MIDI controller",
+    "Sensor hub"
+  ],
+  "tags": [
+    "microcontroller",
+    "arduino",
+    "usb",
+    "gpio"
+  ]
+}

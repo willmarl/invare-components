@@ -1,0 +1,15 @@
+{
+  "name": "Rocker Switch",
+  "model": "KCD1-101N",
+  "exampleIdeas": [
+    "Panel power switch",
+    "Enable large load",
+    "Manual override"
+  ],
+  "tags": [
+    "switch",
+    "rocker",
+    "power",
+    "input"
+  ]
+}

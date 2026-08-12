@@ -1,0 +1,16 @@
+{
+  "name": "Round Rocker LED Switch",
+  "model": "KCD1-8-101EN",
+  "exampleIdeas": [
+    "Illuminated power switch",
+    "Panel control",
+    "Device enable"
+  ],
+  "tags": [
+    "switch",
+    "rocker",
+    "led",
+    "power",
+    "input"
+  ]
+}

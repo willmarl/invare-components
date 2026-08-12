@@ -1,0 +1,15 @@
+{
+  "name": "Step Down Converter",
+  "model": "MP1584EN",
+  "exampleIdeas": [
+    "Compact 5V rail",
+    "Battery to logic voltage",
+    "Tiny robot power"
+  ],
+  "tags": [
+    "power",
+    "converter",
+    "buck",
+    "regulator"
+  ]
+}

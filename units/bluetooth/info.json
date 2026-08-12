@@ -1,0 +1,15 @@
+{
+  "name": "Bluetooth Module",
+  "model": "HC-05, HC-06",
+  "exampleIdeas": [
+    "Phone remote control",
+    "Wireless serial link",
+    "Bluetooth sensor node"
+  ],
+  "tags": [
+    "bluetooth",
+    "wireless",
+    "uart",
+    "communication"
+  ]
+}

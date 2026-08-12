@@ -1,0 +1,15 @@
+{
+  "name": "Motor Driver Shield Expansion Board",
+  "exampleIdeas": [
+    "Arduino robot base",
+    "Dual motor drive",
+    "Mobile platform"
+  ],
+  "tags": [
+    "motor",
+    "driver",
+    "shield",
+    "arduino",
+    "output"
+  ]
+}

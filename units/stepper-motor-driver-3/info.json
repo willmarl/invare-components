@@ -1,0 +1,15 @@
+{
+  "name": "Stepper Motor Driver",
+  "model": "A4988",
+  "exampleIdeas": [
+    "Stepper axis control",
+    "Robot joint",
+    "Plotter drive"
+  ],
+  "tags": [
+    "stepper",
+    "driver",
+    "motor",
+    "a4988"
+  ]
+}

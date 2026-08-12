@@ -1,0 +1,15 @@
+{
+  "name": "Rotary Potentiometer",
+  "model": "WH148",
+  "exampleIdeas": [
+    "Volume / brightness knob",
+    "Setpoint dial",
+    "Analog UI control"
+  ],
+  "tags": [
+    "potentiometer",
+    "analog",
+    "input",
+    "knob"
+  ]
+}

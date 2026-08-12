@@ -1,0 +1,14 @@
+{
+  "name": "TT Motor",
+  "exampleIdeas": [
+    "2WD robot",
+    "Conveyor demo",
+    "Wheel drive"
+  ],
+  "tags": [
+    "motor",
+    "dc",
+    "robotics",
+    "output"
+  ]
+}

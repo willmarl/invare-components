@@ -1,0 +1,15 @@
+{
+  "name": "Limit Switch",
+  "model": "Kw12",
+  "exampleIdeas": [
+    "Endstop for axis",
+    "Door/lid detect",
+    "Home position sense"
+  ],
+  "tags": [
+    "switch",
+    "limit",
+    "input",
+    "mechanical"
+  ]
+}

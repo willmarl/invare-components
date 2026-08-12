@@ -1,0 +1,15 @@
+{
+  "name": "Brushless DC Water Pump",
+  "model": "DC30A-1230",
+  "exampleIdeas": [
+    "Fountain",
+    "Hydroponics circulation",
+    "Cooling loop"
+  ],
+  "tags": [
+    "pump",
+    "water",
+    "actuator",
+    "output"
+  ]
+}

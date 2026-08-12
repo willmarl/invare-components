@@ -1,0 +1,14 @@
+{
+  "name": "DIP Switch 3 Position",
+  "exampleIdeas": [
+    "Board config flags",
+    "Address select",
+    "Mode jumpers"
+  ],
+  "tags": [
+    "switch",
+    "dip",
+    "input",
+    "config"
+  ]
+}

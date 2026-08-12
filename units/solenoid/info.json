@@ -1,0 +1,15 @@
+{
+  "name": "Solenoid",
+  "model": "JF-0530B",
+  "exampleIdeas": [
+    "Electronic latch",
+    "Push/pull mechanism",
+    "Valve actuator"
+  ],
+  "tags": [
+    "solenoid",
+    "actuator",
+    "electromagnet",
+    "output"
+  ]
+}

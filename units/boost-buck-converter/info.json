@@ -1,0 +1,15 @@
+{
+  "name": "Boost Buck Converter",
+  "model": "HW-132",
+  "exampleIdeas": [
+    "Battery voltage regulation",
+    "Stable 5V supply",
+    "Portable power rail"
+  ],
+  "tags": [
+    "power",
+    "converter",
+    "buck-boost",
+    "regulator"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Shift Register",
+  "model": "SN74HC595N",
+  "exampleIdeas": [
+    "Drive many LEDs",
+    "Expand GPIO outputs",
+    "7-segment multiplexing"
+  ],
+  "tags": [
+    "shift-register",
+    "spi",
+    "io-expander",
+    "output"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mini Peristaltic Pump",
+  "model": "NKP-DC-S10B",
+  "exampleIdeas": [
+    "Dosing pump",
+    "Hydroponics feeder",
+    "Liquid transfer"
+  ],
+  "tags": [
+    "pump",
+    "fluid",
+    "peristaltic",
+    "actuator",
+    "output"
+  ]
+}

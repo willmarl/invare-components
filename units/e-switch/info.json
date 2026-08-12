@@ -1,0 +1,15 @@
+{
+  "name": "E-Switch",
+  "model": "TL2285EE",
+  "exampleIdeas": [
+    "Panel push input",
+    "Reset / mode button",
+    "User confirm key"
+  ],
+  "tags": [
+    "switch",
+    "button",
+    "input",
+    "tactile"
+  ]
+}

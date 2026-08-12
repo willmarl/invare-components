@@ -1,13 +1,16 @@
 {
-  "name": "Stepper Motor",
+  "name": "NEMA 17 Stepper Motor",
+  "model": "42HS34",
   "exampleIdeas": [
-    "Precise positioning",
-    "Rotational control"
+    "CNC axis",
+    "3D printer extruder",
+    "Precise rotation stage"
   ],
   "tags": [
-    "Motor",
-    "Stepper",
-    "Output"
-  ],
-  "model": "28BYJ-48"
+    "stepper",
+    "motor",
+    "nema17",
+    "robotics",
+    "output"
+  ]
 }

@@ -1,0 +1,16 @@
+{
+  "name": "12MP Camera Module 3",
+  "model": "arducam IMX708",
+  "exampleIdeas": [
+    "Pi camera projects",
+    "Timelapse",
+    "Computer vision"
+  ],
+  "tags": [
+    "camera",
+    "raspberry-pi",
+    "sensor",
+    "image",
+    "input"
+  ]
+}

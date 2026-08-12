@@ -1,0 +1,15 @@
+{
+  "name": "MP3 Player",
+  "model": "MP3-TF-16P",
+  "exampleIdeas": [
+    "Sound effects box",
+    "Talking project",
+    "Music player"
+  ],
+  "tags": [
+    "audio",
+    "mp3",
+    "uart",
+    "output"
+  ]
+}

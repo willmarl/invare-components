@@ -1,0 +1,16 @@
+{
+  "name": "Straight Bar Load Cell Sensor",
+  "model": "YZC-133",
+  "exampleIdeas": [
+    "Kitchen scale",
+    "Force measurement",
+    "Smart shelf"
+  ],
+  "tags": [
+    "sensor",
+    "load-cell",
+    "force",
+    "weight",
+    "input"
+  ]
+}

@@ -1,0 +1,2 @@
+- 608 open bearing with no seals
+- 608-2RS bearing with rubber contact seals

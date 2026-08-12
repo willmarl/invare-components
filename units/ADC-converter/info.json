@@ -1,0 +1,16 @@
+{
+  "name": "ADC Converter",
+  "model": "MCP3008",
+  "exampleIdeas": [
+    "Extra analog inputs",
+    "Multi-channel sensor readout",
+    "Data logger"
+  ],
+  "tags": [
+    "adc",
+    "spi",
+    "sensor",
+    "interface",
+    "input"
+  ]
+}

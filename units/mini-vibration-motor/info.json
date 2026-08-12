@@ -1,0 +1,15 @@
+{
+  "name": "Mini Vibration Motor",
+  "model": "NFP-C1020",
+  "exampleIdeas": [
+    "Haptic feedback",
+    "Alert buzz",
+    "Phone-style vibrate"
+  ],
+  "tags": [
+    "motor",
+    "vibration",
+    "haptic",
+    "output"
+  ]
+}

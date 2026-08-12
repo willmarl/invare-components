@@ -1,0 +1,15 @@
+{
+  "name": "Dual Channel H Bridge Motor Driver",
+  "model": "L293D",
+  "exampleIdeas": [
+    "Dual motor robot",
+    "Stepper (bipolar) drive",
+    "Fan reverse control"
+  ],
+  "tags": [
+    "motor",
+    "driver",
+    "h-bridge",
+    "output"
+  ]
+}

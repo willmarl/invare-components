@@ -1,0 +1,16 @@
+{
+  "name": "2n2222 Transistor",
+  "model": "2n2222",
+  "exampleIdeas": [
+    "Switch a relay or motor",
+    "LED current driver",
+    "Simple amplifier"
+  ],
+  "tags": [
+    "transistor",
+    "bjt",
+    "npn",
+    "switch",
+    "driver"
+  ]
+}

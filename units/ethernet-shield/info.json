@@ -1,0 +1,16 @@
+{
+  "name": "W5500 Ethernet Shield",
+  "model": "W5500",
+  "exampleIdeas": [
+    "Wired IoT node",
+    "Local web server",
+    "Network data logger"
+  ],
+  "tags": [
+    "ethernet",
+    "network",
+    "shield",
+    "spi",
+    "communication"
+  ]
+}
