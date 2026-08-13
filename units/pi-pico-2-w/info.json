@@ -1,0 +1,5 @@
+{
+  "name": "Pi Pico 2 W",
+  "exampleIdeas": ["IoT", "automation"],
+  "tags": ["microcontroller", "gpio", "wifi"]
+}

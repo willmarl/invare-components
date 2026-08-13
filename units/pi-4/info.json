@@ -1,6 +1,5 @@
 {
   "name": "Raspberry Pi 4",
-  "model": "Raspberry Pi 4 Model B",
   "exampleIdeas": ["automation", "IoT", "robotics controller"],
   "tags": ["single-board computer", "wifi", "networking", "gpio"]
 }
