@@ -1,0 +1,15 @@
+{
+  "name": "Stepper Motor Driver",
+  "model": "TMC2209",
+  "exampleIdeas": [
+    "Quiet stepper axis",
+    "Sensorless homing",
+    "3D printer driver"
+  ],
+  "tags": [
+    "stepper",
+    "driver",
+    "motor",
+    "tmc"
+  ]
+}

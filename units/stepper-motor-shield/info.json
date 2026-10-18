@@ -1,0 +1,16 @@
+{
+  "name": "Stepper Motor Shield",
+  "model": "CNC Shield V3",
+  "exampleIdeas": [
+    "3-axis CNC",
+    "GRBL plotter",
+    "Multi-axis stepper rig"
+  ],
+  "tags": [
+    "stepper",
+    "shield",
+    "arduino",
+    "cnc",
+    "driver"
+  ]
+}

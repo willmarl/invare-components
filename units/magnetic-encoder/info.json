@@ -1,0 +1,16 @@
+{
+  "name": "Magnetic Encoder",
+  "model": "AS5600",
+  "exampleIdeas": [
+    "Absolute angle knob",
+    "Motor shaft position",
+    "Contactless dial"
+  ],
+  "tags": [
+    "sensor",
+    "encoder",
+    "magnetic",
+    "i2c",
+    "input"
+  ]
+}
